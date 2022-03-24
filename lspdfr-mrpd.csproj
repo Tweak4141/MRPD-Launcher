@@ -33,10 +33,10 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="LSPD First Response">
-      <HintPath>D:\Steam\steamapps\common\Grand Theft Auto V\plugins\LSPD First Response.dll</HintPath>
+      <HintPath>./packages/lspdfr/LSPD First Response.dll</HintPath>
     </Reference>
     <Reference Include="RagePluginHookSDK">
-      <HintPath>D:\Steam\steamapps\common\Grand Theft Auto V\SDK\RagePluginHookSDK.dll</HintPath>
+      <HintPath>./packages/ragepluginhook/RagePluginHookSDK.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
